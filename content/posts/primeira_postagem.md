@@ -1,7 +1,7 @@
 ---
 title: "Primeira_postagem"
 date: 2020-07-05T14:24:03-03:00
-draft: true
+draft: false
 ---
 
 ## Essa é a primeira postagem
