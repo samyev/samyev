@@ -1,11 +1,12 @@
 baseURL = "https://samyev.netlify.app/"
 languageCode = "pt-br"
 title = "Meu blog"
-theme = "npq-hugo"
+theme = "github-style"
+
 
 [params]
   author = "samyev"
   description = "Meu blog"
-  avatar = "https://samyev.netlify.app/images/avatar.jpg"	
+  avatar = "https://samyev.netlify.app/images/avatar.png"	
   
 
