@@ -5,6 +5,7 @@ theme = "github-style"
 
 [params]
   author = "samyev"
-  description = "Meu blog"	
+  description = "Meu blog"
+  avatar = "https://samyev.netlify.app/images/avatar.jpg"	
   
 
