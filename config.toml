@@ -1,7 +1,7 @@
 baseURL = "https://samyev.netlify.app/"
 languageCode = "pt-br"
 title = "Meu blog"
-theme = "github-style"
+theme = "npq-hugo"
 
 [params]
   author = "samyev"
