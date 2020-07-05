@@ -1,8 +1,8 @@
 ---
-title: "About"
-date: 2020-07-05T14:45:09-03:00
-draft: false
-layout: "about"
----
+title: Meu Blog
+date: 2020-07-05T14:45:09.000-03:00
+layout: About
+draft: true
 
-## Sobre Mim
+---
+## Sobre Meus Estudos
