@@ -1,7 +1,7 @@
 ---
-title: Meu Blog
+title: PotatoSmall
 date: 2020-07-05T14:45:09.000-03:00
-layout: post
+layout: Post
 
 ---
-## Sobre Meus Estudos
+## Em Construção
