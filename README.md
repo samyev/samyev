@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Futinuti.wordpress.com%2Fsitemap.xml&psig=AOvVaw0_lVwJUO08zUcW5EcKJYO-&ust=1598200360689000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDOibqer-sCFQAAAAAdAAAAABAL">
+<img src="https://utinuti.files.wordpress.com/2019/02/kobayashi-typing.gif">
 <!--
 **samyev/samyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
