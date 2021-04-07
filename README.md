@@ -1,4 +1,4 @@
-### Olá, Devs 🦄
+### Olá, Devs 👋🏻
 
 Me chamo Samylle, curso engenharia da computação, estou no 5° semestre, atualmente estudo também linguagens web tando para frontend 🦄 quanto backend 🐴, python 🐍, e um pouco de docker 🐳. 
 
