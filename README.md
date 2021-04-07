@@ -9,8 +9,3 @@ tecnologias novas, e buscando evoluir cada vez mais, uma chance de aprender e cr
  
  
 <img src="https://4.bp.blogspot.com/-4bfB7R9-HQk/WN0E7_pfj5I/AAAAAAAAa-k/otCFwuYwQKMJbN6JPpEjxfYhnR8aQr43QCLcB/s1600/20%2BGifs%2BStar%2BWars%2B3.gif">
-
-img {
- margin-left: auto; 
- margin-right: auto;
- }
