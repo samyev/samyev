@@ -7,6 +7,6 @@ Aqui pretendo deixar um pouco de tudo que estou estudando 🎒. Desculpem a bagu
 No momento me encontro a procura de uma oportunidade para iniciar na carreirra de TI 👩🏻‍💻 , estou constantemente aprendendo
 tecnologias novas, e buscando evoluir cada vez mais, uma chance de aprender e crescer com alguma empresa será muito válida.
  
-<p aling= "center">
+<p text-align="center">
 <img src="https://4.bp.blogspot.com/-4bfB7R9-HQk/WN0E7_pfj5I/AAAAAAAAa-k/otCFwuYwQKMJbN6JPpEjxfYhnR8aQr43QCLcB/s1600/20%2BGifs%2BStar%2BWars%2B3.gif">
 </p>
