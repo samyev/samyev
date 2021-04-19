@@ -4,4 +4,4 @@
 
 👩🏻‍💻 - A procura de job
 
-Me chamo Samylle, curso engenharia da computação, atualmente estudo também linguagens web, frontend 🦄 e backend 🐴, python 🐍, um pouco de docker 🐳 e AWS 😊. Sou apaixonada por linux 🐧, viciada em animes 🇯🇵, mãe de uma gatinha 🐱 e irmã de um cãozinho 🐶. Sejam bem vindos ao meu github 🐱 + 🐙
+Me chamo Samylle, curso engenharia da computação, atualmente estudo linguagens web, frontend 🦄 e backend 🐴, python 🐍, um pouco de docker 🐳 e AWS 😊. Sou apaixonada por linux 🐧, viciada em animes 🇯🇵, mãe de uma gatinha 🐱 e irmã de um cãozinho 🐶. Sejam bem vindos ao meu github 🐱 + 🐙
