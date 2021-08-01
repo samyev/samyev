@@ -4,7 +4,15 @@
 
 ### Samylle é ...
 
-- 👩🏻‍🎓 Graduanda na UFC 
+- 👩🏻‍🎓 Graduanda em engenharia da computação na UFC 
 - 👩🏻‍💻 Estagiária em desenvolvimento de software na [Locus Custom Software](https://locussoftware.com.br/)
 - 🐧 Apaixonada por linux
+
+### O que Samylle Estuda ...
+
+- 🐍 Python
+- 🦄 Django
+- 🎯 Flutter
+- 🐳 Docker
+- ⚙️⚒ CI/CD
 
