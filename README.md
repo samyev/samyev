@@ -14,5 +14,5 @@
 - 🦄 Django
 - 🎯 Flutter
 - 🐳 Docker
-- ⚙️⚒ CI/CD
+- ⚙️ CI/CD
 
