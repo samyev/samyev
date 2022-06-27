@@ -9,10 +9,15 @@
 
 ### O que Samylle Estuda ...
 
-- Terraform
-- ⚙️ Github Actions
-- Kubernetes
-- Azure
-- AWS
+- Ferramentas de Infraestrutura como Código (Terraform, Ansible)
+- Orquestração de Containers (Docker, Kubernetes)
+- Continuos integration e Delivery integration (Github Actions)
+- Cloud Compute (Azure e AWS)
+- Cultura DevOps
 - Python
 
+### O que Samylle Gosta ...
+
+- 🎌 Adoro a cultura asiática
+- 🌸 Amo animes, estou me viciando em doramas
+- 📷 Adoro fotografia
