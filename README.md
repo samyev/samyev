@@ -4,13 +4,15 @@
 
 ### Samylle é ...
 
-- 👩🏻‍🎓 Graduanda em engenharia da computação na UFC 
+- 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas pela universidade Estácio de Sá
 - 👩🏻‍💻 DevOps Engineer na empresa [Pagar.me](https://pagar.me/)
 
 ### O que Samylle Estuda ...
 
-- 🐍 Python
-- 🐳 Docker
-- ⚙️ CI/CD
-- IaC (Terraform)
+- Terraform
+- ⚙️ Github Actions
+- Kubernetes
+- Azure
+- AWS
+- Python
 
