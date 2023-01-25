@@ -9,7 +9,7 @@
 
 ### O que Samylle Estuda ...
 
-- Ferramentas de Infraestrutura como Código (Terraform, Ansible)
+- Ferramentas de IaC e gerência de configuração (Terraform, Ansible)
 - Orquestração de Containers (Docker, Kubernetes)
 - Continuos integration e Delivery integration (Github Actions)
 - Cloud Compute (Azure e AWS)
@@ -19,5 +19,5 @@
 ### O que Samylle Gosta ...
 
 - 🎌 Adoro a cultura asiática
-- 🌸 Amo animes, estou me viciando em doramas
-- 📷 Adoro fotografia
+- 🌸 Amo animes
+- 📷 Amo fotografia
