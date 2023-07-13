@@ -14,7 +14,6 @@
 - Continuos integration e Delivery integration (Github Actions)
 - Cloud Compute (Azure e AWS)
 - Cultura DevOps
-- Python
 
 ### O que Samylle Gosta ...
 
