@@ -4,8 +4,8 @@
 
 ### Samylle é ...
 
-- 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas pela universidade Estácio de Sá
-- 👩🏻‍💻 DevOps Engineer na empresa [Pagar.me](https://pagar.me/)
+- 👩🏻‍🎓 Formada em Análise e Desenvolvimento de Sistemas pela universidade Estácio de Sá
+- 👩🏻‍💻 SRE na empresa [Pagar.me](https://pagar.me/)
 
 ### O que Samylle Estuda ...
 
@@ -20,3 +20,4 @@
 - 🎌 Adoro a cultura asiática
 - 🌸 Amo animes
 - 📷 Amo fotografia
+- 📚 Amo Livros
